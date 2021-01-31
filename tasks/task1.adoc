@@ -1,0 +1,8 @@
+=== task 1
+
+* ListenAndServe on port ":8080" using the default ServeMux.
+
+* Use HandleFunc to add the following routes to the default ServeMux:
+** "/" "/dog/" "/me/
+
+* have the "/me/" route print out your name
