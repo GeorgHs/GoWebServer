@@ -1,0 +1,7 @@
+=== exercise 2
+
+https://github.com/GoesToEleven/golang-web-dev/tree/master/024_hands-on/03_hands-on/starting-files
+
+* Serve the files in the "starting-files" folder
+* Use "http.FileServer"
+
